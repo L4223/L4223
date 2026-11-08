@@ -16,7 +16,7 @@
 ### Über mich
 
 - 🎓 **Medieningenieur (B.Eng.)** der Fachhochschule Kiel – Bachelorarbeit zu **WebXR im Schulunterricht** in Kooperation mit **Dataport**
-- 🌊 Gründer von **Flut.digital**: Websites, KI-Integrationen und 3D/AR-Erlebnisse für Unternehmen aus Schleswig-Holstein
+- 🌊 Eigene Übungsprojekte wie **Flut.digital**: eine fiktive Digitalagentur, an der ich Webentwicklung und Brand Design von der Marke bis zur fertigen Website durchspiele
 - 🧭 Schwerpunkte: **React / Next.js**, **TypeScript**, **WebXR & Three.js**, **KI-Integration (LLMs)**, barrierearme Oberflächen
 - 🤝 Erfahrung in agilen Teams (Scrum), vom Konzept über Design bis zum Deployment
 - 🔎 **Offen für Stellen als Junior Frontend- / Fullstack-Entwickler** – am liebsten in produktorientierten Teams
@@ -32,7 +32,7 @@
         <img src="https://raw.githubusercontent.com/L4223/Flut.digital/main/docs/screenshots/home.jpg" alt="Flut.digital Startseite">
       </a>
       <h4><a href="https://github.com/L4223/Flut.digital">Flut.digital</a></h4>
-      Website meiner Digitalagentur mit animierter Three.js-Szene, KI-Chat-Assistent, Case Studies und Admin-Bereich für Blog und Referenzen.<br><br>
+      Übungsprojekt: Marke und Website für eine fiktive Digitalagentur, mit animierter Three.js-Szene, KI-Chat-Assistent, Case Studies und Admin-Bereich für Blog und Referenzen.<br><br>
       <code>Next.js 15</code> <code>TypeScript</code> <code>Tailwind</code> <code>Three.js</code> <code>Firebase</code> <code>LLM</code>
     </td>
     <td width="50%" valign="top">
