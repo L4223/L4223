@@ -36,7 +36,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/L4223/SchoolXR_Prototype">
-        <img src="https://raw.githubusercontent.com/L4223/SchoolXR_Prototype/main/docs/screenshots/app-desktop.jpg" alt="SchoolXR Startseite">
+        <img src="https://raw.githubusercontent.com/L4223/SchoolXR_Prototype/main/docs/screenshots/app-desktop.jpg?v=dark" alt="SchoolXR Startseite">
       </a>
       <h4><a href="https://github.com/L4223/SchoolXR_Prototype">SchoolXR</a></h4>
       Bachelorarbeit mit Dataport: Lehrkräfte verbinden 3D-Modelle mit Hotspots und Aufgaben, Schüler:innen erkunden sie direkt im Browser – mit LTI-Anbindung für Moodle und die dBildungscloud.<br><br>
