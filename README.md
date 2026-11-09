@@ -16,7 +16,6 @@
 ### Über mich
 
 - 🎓 **Medieningenieur (B.Eng.)** der Fachhochschule Kiel – Bachelorarbeit zu **WebXR im Schulunterricht** in Kooperation mit **Dataport**
-- 🌊 Eigene Übungsprojekte wie **Flut.digital**: eine fiktive Digitalagentur, an der ich Webentwicklung und Brand Design von der Marke bis zur fertigen Website durchspiele
 - 🧭 Schwerpunkte: **React / Next.js**, **TypeScript**, **WebXR & Three.js**, **KI-Integration (LLMs)**, barrierearme Oberflächen
 - 🤝 Erfahrung in agilen Teams (Scrum), vom Konzept über Design bis zum Deployment
 - 🔎 **Offen für Stellen als Junior Frontend- / Fullstack-Entwickler** – am liebsten in produktorientierten Teams
